@@ -1,4 +1,4 @@
 The-Flexible-Grid-Photoshop-Script
 ==================================
 
-The Flexible Grid Photoshop Script
+This is a script for Photoshop that generates a .psd file with the grid defined by you. It's useful for creating a grid system template typically used in RWD (Responsive Web Design). The benefits are being able to customize columns and spans automatically, instead of manually. You'll have to specify the number of columns, the column span, document width & height in 72dpi. If no document is open, it creates a new document for you, otherwise it resizes the current document's canvas size to the desired width/height while adding the specified grid to that current document. You can find more of my [Free Photoshop Automation Scripts](http://workfunc.com/tag/photoshop-automation-scripts/) at [workfunc.com](http://workfunc.com).
